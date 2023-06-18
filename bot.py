@@ -7,7 +7,7 @@ from imdb import IMDb
 ia = IMDb()
 
 # Telegram bot token obtained from BotFather
-TOKEN = "6175592645:AAGFojrbkUA7Us58E2wexSjL-W5bpSNvr-c"
+TOKEN = "bot_token"
 
 def start(update, context):
     """Handler function for the /start command."""
