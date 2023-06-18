@@ -37,7 +37,7 @@ This is a Telegram bot that provides details and images of movies using the IMDb
 
 1. Start the bot by running the following command:
    ```bash
-   python bot.py
+   python3 bot.py
 2. Open Telegram and search for your bot.
 3. Start a chat with the bot and send commands to get movie details and images.
 
